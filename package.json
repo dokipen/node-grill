@@ -1,0 +1,32 @@
+{
+  "name": "node-grill",
+  "version": "0.0.1",
+  "description": "Push some logs up to the grill master",
+  "homepage": "https://github.com/JohnEmhoff/node-grill",
+  "keywords": [],
+  "license": "MIT",
+  "author": "John Emhoff <john@embed.ly>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/embedly/node-grill.git"
+  },
+  "bugs": {
+    "url": "http://github.com/embedly/node-grill/issues/"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "dependencies": {
+   "zmq": "2.0.3"
+  },
+  "devDependencies": {
+  },
+  "engines": {
+    "node": ">= 0.4.0",
+    "npm": ">= 1.0.105"
+  },
+  "main": "./index.js",
+  "scripts": {
+  },
+  "optionalDependencies": {}
+}
