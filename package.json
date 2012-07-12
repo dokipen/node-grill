@@ -6,16 +6,6 @@
   "keywords": [],
   "license": "MIT",
   "author": "John Emhoff <john@embed.ly>",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/embedly/node-grill.git"
-  },
-  "bugs": {
-    "url": "http://github.com/embedly/node-grill/issues/"
-  },
-  "directories": {
-    "lib": "./lib"
-  },
   "dependencies": {
    "zmq": "2.0.3"
   },
