@@ -1,6 +1,6 @@
 {
   "name": "node-grill",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Push some logs up to the grill master",
   "homepage": "https://github.com/JohnEmhoff/node-grill",
   "keywords": [],
